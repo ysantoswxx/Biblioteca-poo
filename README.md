@@ -10,7 +10,7 @@ Sistema simples de gestão de itens de biblioteca desenvolvido em Python utiliza
 ## ▶ Como executar
 
 1. Clone o repositório:
-git clone https://github.com/seuusuario/biblioteca-poo.git
+git clone https://github.com/ysantoswxx/Biblioteca-poo.git
 
 2. Acesse a pasta:
 cd biblioteca-poo
